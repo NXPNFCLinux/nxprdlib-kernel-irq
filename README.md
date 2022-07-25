@@ -7,7 +7,8 @@ This will allow every PN5190 IRQ Raising edge being handled by the NFCRdLib exec
 
 ## Build the Module
 ### Raspberry Pi
-Please refer also to application note: https://www.nxp.com/docs/en/application-note/AN11802.pdf
+Please refer also to application note: https://www.nxp.com/docs/en/application-note/AN11802.pdf.
+
 Copy the IRQ Kernel Driver source code from /boot/ to /home/pi and build the Module using below commands on Raspbian Image.
 ```
 cd ~/linux
